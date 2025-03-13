@@ -7,23 +7,26 @@ Hit me up on social media
 <p>
   <a href="https://www.linkedin.com/in/ardafirdausr">
     <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/linkedin-box-fill-1.png" />
-  </a>&nbsp;&nbsp;
+  </a>
+  <span style="margin-right: 10px;"></span>
   <a href="https://www.twitter.com/ardafirdausr">
     <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/twitter-fill-1.png" />
-  </a>&nbsp;&nbsp;
+  </a>
+  <span style="margin-right: 10px;"></span>
   <a href="https://www.instagram.com/ardafirdausr">
     <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/instagram-fill-2.png" />
-  </a>&nbsp;&nbsp;
+  </a>
+  <span style="margin-right: 10px;"></span>
   <a href="https://www.facebook.com/ardafirdausr">
     <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/facebook-fill-2.png" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
 ## Stats:
 
 <a href="https://github.com/AndhikaRei">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardafirdausr&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardafirdausr&include_all_commits=true&count_private=true&theme=buefy&layout=compact&hide=jupyter%20notebook,HTML,CSS,JavaScript,Blade" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardafirdausr&include_all_commits=true&count_private=true&theme=vue&layout=normal&hide=jupyter%20notebook,HTML,CSS,JavaScript,Blade" />
 </a>
 
 <!--
