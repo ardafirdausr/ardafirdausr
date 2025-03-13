@@ -17,8 +17,8 @@ Hit me up on social media:
 
 ## Stats:
 
-<a href="https://github.com/ardafirdausr" target="_blank">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardafirdausr&show_icons=true&theme=buefy&theme=transparent&include_all_commits=true&count_private=true"/>
+<p>
+  <a href="https://github.com/ardafirdausr" target="_blank"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardafirdausr&show_icons=true&theme=buefy&theme=transparent&include_all_commits=true&count_private=true"/></a>
   <span>&nbsp;&nbsp;</span>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardafirdausr&include_all_commits=true&count_private=true&theme=transparent&layout=compact&hide=jupyter%20notebook,HTML,CSS,Blade" />
-</a>
+  <a href="https://github.com/ardafirdausr" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardafirdausr&include_all_commits=true&count_private=true&theme=transparent&layout=compact&hide=jupyter%20notebook,HTML,CSS,Blade" /></a>
+</p>
