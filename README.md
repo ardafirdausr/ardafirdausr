@@ -17,7 +17,7 @@ Hit me up on social media:
 
 ## Stats:
 
-<p align="center">
+<p>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardafirdausr&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <span>&nbsp;&nbsp;</span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardafirdausr&include_all_commits=true&count_private=true&theme=vue&layout=compact&hide=jupyter%20notebook,HTML,CSS,JavaScript,Blade" />
