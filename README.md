@@ -5,9 +5,9 @@ Hi! My name is Arda Firdaus Ramadhan. A Backend Engineer who passionated learnin
 ## Social Media
 Hit me up on social media
 <p>
-  <a href="https://www.linkedin.com/in/ardafirdausr">
-    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/linkedin-box-fill-1.png" />
-  </a>
+  <div onclick="window.open('https://www.linkedin.com/in/ardafirdausr', '_blank')" style="display: inline-block; cursor: pointer;">
+    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/linkedin-box-fill-1.png" alt="LinkedIn" />
+  </div>
   &nbsp;&nbsp;
   <a href="https://www.twitter.com/ardafirdausr">
     <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/twitter-fill-1.png" />
@@ -24,10 +24,8 @@ Hit me up on social media
 
 ## Stats:
 
-<a href="https://github.com/AndhikaRei">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardafirdausr&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardafirdausr&include_all_commits=true&count_private=true&theme=vue&layout=compact&hide=jupyter%20notebook,HTML,CSS,JavaScript,Blade" />
-</a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardafirdausr&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardafirdausr&include_all_commits=true&count_private=true&theme=vue&layout=compact&hide=jupyter%20notebook,HTML,CSS,JavaScript,Blade" />
 
 <!--
 **ardafirdausr/ardafirdausr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
