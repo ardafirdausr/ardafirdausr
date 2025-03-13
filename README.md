@@ -6,19 +6,13 @@ Hi! My name is Arda Firdaus Ramadhan. A Backend Engineer passionate about learni
 Hit me up on social media:
 
 <p>
-  <a href="https://www.linkedin.com/in/ardafirdausr" target="_blank">
-    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/linkedin-box-fill-1.png" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/ardafirdausr" target="_blank"><img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/linkedin-box-fill-1.png" alt="LinkedIn" /></a>
   <span>&nbsp;&nbsp;</span>
-  <a href="https://www.twitter.com/ardafirdausr" target="_blank">
-    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/twitter-fill-1.png" alt="Twitter" />
-  </a>
+  <a href="https://www.twitter.com/ardafirdausr" target="_blank"><img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/twitter-fill-1.png" alt="Twitter" /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.instagram.com/ardafirdausr" target="_blank"><img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/instagram-fill-2.png" alt="Instagram" /></a>
   <span>&nbsp;&nbsp;</span>
-  <a href="https://www.facebook.com/ardafirdausr" target="_blank">
-    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/facebook-fill-2.png" alt="Facebook" />
-  </a>
+  <a href="https://www.facebook.com/ardafirdausr" target="_blank"><img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/facebook-fill-2.png" alt="Facebook" /></a>
 </p>
 
 ## Stats:
