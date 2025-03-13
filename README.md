@@ -7,19 +7,17 @@ Hit me up on social media:
 
 <p>
   <a href="https://www.linkedin.com/in/ardafirdausr" target="_blank">
-    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/linkedin-box-fill-1.png" alt="LinkedIn" /> &nbsp;&nbsp;
+    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/linkedin-box-fill-1.png" alt="LinkedIn" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.twitter.com/ardafirdausr" target="_blank">
-    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/twitter-fill-1.png" alt="Twitter" /> &nbsp;&nbsp;
+    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/twitter-fill-1.png" alt="Twitter" />
   </a>
   <span>&nbsp;&nbsp;</span>
-  <a href="https://www.instagram.com/ardafirdausr" target="_blank">
-    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/instagram-fill-2.png" alt="Instagram" /> &nbsp;&nbsp;
-  </a>
+  <a href="https://www.instagram.com/ardafirdausr" target="_blank"><img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/instagram-fill-2.png" alt="Instagram" /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.facebook.com/ardafirdausr" target="_blank">
-    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/facebook-fill-2.png" alt="Facebook" /> &nbsp;&nbsp;
+    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/facebook-fill-2.png" alt="Facebook" />
   </a>
 </p>
 
